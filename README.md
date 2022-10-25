@@ -1,7 +1,7 @@
 # BayTensor
 R code for simulation studies in the paper:
 
-Wang, Kunbo, and Yanxun Xu. "Bayesian Tensor-on-Tensor Regression with Efficient Computation." arXiv preprint arXiv:2210.11363 (2022).
+Kunbo Wang*, and Yanxun Xu*. "Bayesian Tensor-on-Tensor Regression with Efficient Computation." arXiv preprint arXiv:2210.11363 (2022).
 
 The paper is available at https://arxiv.org/abs/2210.11363.
 
