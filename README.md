@@ -9,7 +9,17 @@ The paper is available at https://arxiv.org/abs/2210.11363.
 ## File: Main.R
 Simulation analyses under the proposed BayTensor MCMC algorithm (Algorithm1) and BayTensor Fast algorithm (Algorithm2) 
 
-The [Main.R](https://github.com/KunboStats/BayTensor/blob/main/Main.R) script sources the following functions/scripts: [Functions.R](https://github.com/KunboStats/BayTensor/blob/main/Functions.R), [Generate_Data.R](https://github.com/KunboStats/BayTensor/blob/main/Generate_Data.R), [BayTensor_MCMC.R](https://github.com/KunboStats/BayTensor/blob/main/BayTensor_MCMC.R), [BayTensor_Fast.R](https://github.com/KunboStats/BayTensor/blob/main/BayTensor_Fast.R) with the details explained below.
+The [Main.R](https://github.com/KunboStats/BayTensor/blob/main/Main.R) script sources the following functions/scripts: 
+
+-[Functions.R](https://github.com/KunboStats/BayTensor/blob/main/Functions.R)
+
+-[Generate_Data.R](https://github.com/KunboStats/BayTensor/blob/main/Generate_Data.R)
+
+-[BayTensor_MCMC.R](https://github.com/KunboStats/BayTensor/blob/main/BayTensor_MCMC.R)
+
+-[BayTensor_Fast.R](https://github.com/KunboStats/BayTensor/blob/main/BayTensor_Fast.R) 
+
+Detailed descriptions for all files are shown below.
 
 Full simulation setups can be found in Section 6 of the [paper](https://arxiv.org/abs/2210.11363) 
 
